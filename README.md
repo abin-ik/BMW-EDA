@@ -33,3 +33,10 @@ Yes. There has been a significant rise in the production of automatic and semi-a
 
 Answer:
 Not substantially. The demand for diesel cars still remains high, while electric vehicles have not yet overtaken traditional fuel types in BMW’s lineup.
+
+
+## 📂 Dataset
+
+The dataset — **bmw.csv** — was sourced from **Kaggle** and contains detailed information about BMW cars.  
+It includes features such as **model, year, price, transmission type, mileage, fuel type, tax, and engine size**, used to analyze pricing trends, performance factors, and production patterns across different BMW models.
+
